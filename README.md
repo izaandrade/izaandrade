@@ -2,7 +2,7 @@
 
 <p align="center">
     💻 Tech enthusiast, passionate about cybersecurity and programming.<br>
-    📚 Currently focused on Cybersecurity (Purple Team), Networking and Cloud Security.<br>
+    📚 Currently focused on QA, Manual and Automated Testing, Cybersecurity (Purple Team), Networking and Cloud Security.<br>
     🚀 Learning, creating, and sharing knowledge!
 </p>
 
