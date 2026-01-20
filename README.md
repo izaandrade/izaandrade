@@ -1,14 +1,30 @@
-<h1 align="center">👋 Hey there, I'm Iza</h1>
+<h1 align="center">👋 Oi, eu sou a Iza</h1>
 
 <p align="center">
-    💻 Tech enthusiast, passionate about cybersecurity and software quality assurance.<br>
-    📚 Currently focused on QA, Manual and Automated Testing, Cybersecurity, Networking and Cloud.<br>
-    🚀 Learning, creating, and sharing knowledge!
+🧪 <strong>Entusiasta em Quality Assurance</strong>, com foco em <strong>QA Manual</strong> e evolução contínua em <strong>Automação de Testes</strong>.<br>
+🔍 Me especializando em planejamento de testes, criação de casos de teste, execução, registro de bugs e documentação.<br>
+📚 Atualmente estudando <strong>Cypress</strong>, <strong>Linux</strong> e <strong>SQL</strong> para fortalecer a base técnica em QA.<br>
+🚀 Desenvolvendo e compartilhando um portfólio prático de QA com cenários reais de teste.
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools I Use
+## 🧪 Projetos de QA em Destaque
+
+🔍 **Portfólio de QA Manual**  
+Repositório dedicado a estudos e práticas em QA Manual, com foco em planejamento de testes, criação de casos, execução, registro de bugs e evidências.
+
+📂 **Projetos incluídos:**
+- 🛒 [SauceDemo – Testes Funcionais](https://github.com/izaandrade/qa-manual-portfolio/tree/main/saucedemo)
+- 🧪 [DemoQA – Testes Exploratórios e Usabilidade](https://github.com/izaandrade/qa-manual-portfolio/tree/main/demoqa)
+- 🧠 [QA Brains – Testes Exploratórios e Interface](https://github.com/izaandrade/qa-manual-portfolio/tree/main/qabrains)
+
+➡️ **Repositório completo:**  
+https://github.com/izaandrade/qa-manual-portfolio
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python – scripts, automação, lógica"/>
@@ -16,22 +32,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java – orientação a objetos"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" title="PHP – backend / web"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub – versionamento de código"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" title="Figma – design, prototipação, noção de UI/UX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" title="Figma – design, prototipação e noção de UI/UX"/>
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Em Estudo
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="35" title="Cypress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" title="Linux – sistemas operacionais / infraestrutura"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" title="Linux – sistemas operacionais e infraestrutura"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="MySQL – banco de dados relacional"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -43,11 +59,11 @@
 
 ---
 
-## 📫 Connect with me:
+## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/izabela-dos-santos/)
-- [GitHub](https://github.com/izaandrade)
+- 💼 [LinkedIn](https://www.linkedin.com/in/izabela-dos-santos/)
+- 💻 [GitHub](https://github.com/izaandrade)
 
 ---
 
-⭐️ Thanks for visiting my profile!
+⭐️ Obrigada pela visita!
